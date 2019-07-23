@@ -33,9 +33,9 @@ subtitle = ""
   description = "Basic knowledge of financial markets, market mechanics and quantitative analysis using Python"
 
 [[feature]]
-  icon = "camera-retro"
+  icon = "wordpress"
   icon_pack = "fab"
-  name = "wordpress"
+  name = "WordPress"
   description = "A couple of websites with a variing range of requirements"
 
 +++

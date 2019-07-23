@@ -15,21 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "java"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Java"
+  description = "Average proficiency including the main libraries"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "server"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Enterprise IT"
+  description = "Enterprise IT environments with Linux and Windows servers and network components"  
   
+[[feature]]
+  icon = "coins"
+  icon_pack = "fas"
+  name = "Finance"
+  description = "Basic knowledge of financial markets, market mechanics and quantitative analysis using Python"
+
 [[feature]]
   icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon_pack = "fab"
+  name = "wordpress"
+  description = "A couple of websites with a variing range of requirements"
 
 +++

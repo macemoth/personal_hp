@@ -23,7 +23,7 @@ bio: CS student in his second year at university.
 interests:
 - System engineering
 - Computer Networks
-- Applications of CS in economics and biology
+- Applications of CS in finance and biology
 
 education:
   courses:

@@ -24,13 +24,13 @@ subtitle = ""
   icon = "server"
   icon_pack = "fas"
   name = "Enterprise IT"
-  description = "Enterprise IT environments with Linux and Windows servers and network components"  
+  description = "Enterprise IT environments with Linux and Windows servers and various network components"  
   
 [[feature]]
   icon = "coins"
   icon_pack = "fas"
   name = "Finance"
-  description = "Basic knowledge of financial markets, market mechanics and quantitative analysis using Python"
+  description = "Basic knowledge of financial markets, market mechanics, quantitative analysis using Python and automated quantitative trading systems"
 
 [[feature]]
   icon = "wordpress"

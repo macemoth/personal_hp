@@ -24,7 +24,7 @@ subtitle = ""
   icon = "server"
   icon_pack = "fas"
   name = "Enterprise IT"
-  description = "Enterprise IT environments with Linux and Windows servers and various network components"  
+  description = "Enterprise IT environments with Linux (especially Debian-like) and Windows servers and typical network components"  
   
 [[feature]]
   icon = "coins"
@@ -33,9 +33,15 @@ subtitle = ""
   description = "Basic knowledge of financial markets, market mechanics, quantitative analysis using Python and automated quantitative trading systems"
 
 [[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Bioinformatics"
+  description = "Basic concepts of Bioinformatics, e.g. comparing and searching DNA and protein sequences using BLAST, protein structure and coding, using databases and retrieving information"
+
+[[feature]]
   icon = "wordpress"
   icon_pack = "fab"
   name = "WordPress"
-  description = "A couple of websites with a variing range of requirements"
+  description = "Creation and maintenance of websites with a variing range of requirements"
 
 +++

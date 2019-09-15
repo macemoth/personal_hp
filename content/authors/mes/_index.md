@@ -23,13 +23,13 @@ bio: CS student in his second year at university.
 interests:
 - System engineering
 - Computer Networks
-- Applications of CS in finance and biology
+- Applications of CS (particularily in finance and biology)
 
 education:
   courses:
   - course: BSc in Computer Science
     institution: Zurich University of Applied Sciences, School of Engineering
-    year: 2021
+    year: 2021 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -63,6 +63,5 @@ email: "marcesoler@sns.network"
 # - Visitors
 ---
 
-I am currently in my second year of the CS Bachelor programme at the ZHAW. My interests include core CS topics and applications of computer systems in
-other fields such as economics, biology or weather prediction. When I'm not in front of my laptop, you see me riding a bike, running in the mountains or
-playing the violin.
+I am currently in my second year of the CS Bachelor programme at the ZHAW. My interests include core CS topics, using computers in finance and bioinformatics. I'm also interested in the development of promising of ideas into enterprises.
+When I'm not in front of a computer I love spending time on my bike, in my running shoes or playing the violin.

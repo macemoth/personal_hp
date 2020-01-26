@@ -21,9 +21,10 @@ organizations:
 bio: CS student in his second year at university.
 
 interests:
-- System engineering
-- Computer Networks
-- Applications of CS (particularily in finance and biology)
+- Algorithms, numerical analysis
+- Bioinformatics
+- Quantitative finance
+- Computer infrastructure and networks
 
 education:
   courses:
@@ -63,5 +64,5 @@ email: "marcesoler@sns.network"
 # - Visitors
 ---
 
-I am currently in my second year of the CS Bachelor programme at the ZHAW. My interests include core CS topics, using computers in finance and bioinformatics. I'm also interested in the development of promising of ideas into enterprises.
-When I'm not in front of a computer I love spending time on my bike, in my running shoes or playing the violin.
+I am currently in my second year of the CS Bachelor programme at the ZHAW. My interests include core CS topics, as well as applications of Computer Science, particularily in context of Science or Mathematics. I'm also interested in the development of promising of ideas into enterprises.
+Also, I like spending time on my bike, in my running shoes or playing the violin.

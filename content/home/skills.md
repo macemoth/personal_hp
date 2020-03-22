@@ -36,7 +36,7 @@ subtitle = ""
   icon = "dna"
   icon_pack = "fas"
   name = "Bioinformatics"
-  description = "Basic concepts of Bioinformatics, e.g. comparing and searching DNA and protein sequences using BLAST, protein structure and coding, using databases and retrieving information"
+  description = "Basic concepts of Bioinformatics, e.g. comparing and searching DNA and protein sequences, protein structure and coding"
 
 [[feature]]
   icon = "wordpress"

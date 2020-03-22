@@ -64,5 +64,5 @@ email: "marcesoler@sns.network"
 # - Visitors
 ---
 
-I am currently in my second year of the CS Bachelor programme at the ZHAW. My interests include core CS topics, as well as applications of Computer Science, particularily in context of Science or Mathematics. I'm also interested in the development of promising of ideas into enterprises.
+I am currently in my second year of the CS Bachelor programme at ZHAW. My interests include core CS topics, as well as applications of Computer Science such as Bioinformatics, Molecular Dynamics and Computational Finance. I'm also interested in the development of promising of ideas into enterprises.
 Also, I like spending time on my bike, in my running shoes or playing the violin.

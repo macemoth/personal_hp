@@ -18,10 +18,11 @@ organizations:
   url: "https://www.zhaw.ch/de/engineering/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: CS student in his second year at university.
+bio: CS student in his third year at university.
 
 interests:
 - Algorithms, numerical analysis
+- Quantum Computing
 - Bioinformatics
 - Quantitative finance
 - Computer infrastructure and networks
@@ -64,5 +65,5 @@ email: "marcesoler@sns.network"
 # - Visitors
 ---
 
-I am currently in my second year of the CS Bachelor programme at ZHAW. My interests include core CS topics, as well as applications of Computer Science such as Bioinformatics, Molecular Dynamics and Computational Finance. I'm also interested in the development of promising of ideas into enterprises.
-Also, I like spending time on my bike, in my running shoes or playing the violin.
+I am currently in my ~~second~~ third year of the CS Bachelor programme at ZHAW. My interests include core CS topics, as well as applications of Computer Science such as Bioinformatics, Molecular Dynamics and Computational Finance. Recently, I became particularly intererested in Quantum Computing and it's applications in the aforementioned topics. I'm also interested in the development of promising of ideas into enterprises. I hope to see more entrepreneurial success in Europe, as it is a centre of scientific innovation, but commercialization often happens outside of Europe.
+Also, I like spending time on my bike, in my running shoes, on the water or playing the violin (both Baroque music and art fascinate me).

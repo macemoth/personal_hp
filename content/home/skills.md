@@ -15,6 +15,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "hat-wizard"
+  icon_pack = "fa"
+  name = "Numerical analysis"
+  description = "Understanding of basic concepts in Numerical analysis in MATLAB"
+
+[[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"

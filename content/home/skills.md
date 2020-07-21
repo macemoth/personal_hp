@@ -18,7 +18,7 @@ subtitle = ""
   icon = "hat-wizard"
   icon_pack = "fa"
   name = "Numerical analysis"
-  description = "Understanding of basic concepts in Numerical analysis in MATLAB"
+  description = "Understanding of basic concepts in Numerical analysis in MATLAB (systems of equations, calculus, ODE, systems of ODE, interpolation, curve fitting and applications)"
 
 [[feature]]
   icon = "java"

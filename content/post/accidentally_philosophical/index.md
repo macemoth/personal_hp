@@ -14,9 +14,9 @@ The notion about AI I feel most comfortable with is a broad range of application
 
 Hence, Ford's notion about AI as orthosis fits AI's capabilities today best in my perspective. Still, I don't want to neglect the ideas introduced by Ray Kurzweil, Nick Bostrom and "summarized" by Tim Urban. Intuitively, this rather shocking article resembles a *Deus ex machina* scenario to me. My reaction to it was not unlike one the first *Deus ex machina* device's criticists Antiphanes' reaction, who stated:
 
-*when they don't know what to say*
-*and have completely given up on the play*
-*just like a finger they lift the machine*
+*when they don't know what to say*\
+*and have completely given up on the play*\
+*just like a finger they lift the machine*\
 *and the spectators are satisfied.*
 
 The difference to its theatrical metaphor however boldly appears as with the spectators are not satisfied upon learning that a superintelligence may be humankinds last invention. With this exception, Antiphanes perhaps understood humans' affection to drama and perhaps this is what we see today.
@@ -33,10 +33,9 @@ To conclude, I don't think that a true artificial intelligence is impossible, I 
 **Sources:**
 
 [1] Kenneth M. Ford et al., "Cognitive Orthoses: Toward Human-Centered AI", AI Magazine, winter 2015, pp. 5-8, 2015.
+
 [2] Tim Urban, "The Artificial Intelligence Revolution: The Road to Superintelligence", Wait but why? blog, 22.01.2015-27.01.2015.
+
 [3] Freeman Dyson, "Our biotech future." The New York Review of Books 54.12 (2007).
 
-
-![Influenzavirus](./Influenza_mid.jpeg)
-![Adenovirus](./featured.jpeg)
-![Adenovirus](./Adeno_LP.jpeg)
+Image credit: Unfortunately, I wasn't able to find the artist of this wonderful piece. Please contact me if you know who the artist is.

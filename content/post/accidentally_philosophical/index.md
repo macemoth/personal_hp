@@ -14,9 +14,9 @@ The notion about AI I feel most comfortable with is a broad range of application
 
 Hence, Ford's notion about AI as orthosis fits AI's capabilities today best in my perspective. Still, I don't want to neglect the ideas introduced by Ray Kurzweil, Nick Bostrom and "summarized" by Tim Urban. Intuitively, this rather shocking article resembles a *Deus ex machina* scenario to me. My reaction to it was not unlike one the first *Deus ex machina* device's criticists Antiphanes' reaction, who stated:
 
-> when they don't know what to say
-> and have completely given up on the play
-> just like a finger they lift the machine
+> when they don't know what to say \
+> and have completely given up on the play \
+> just like a finger they lift the machine \
 > and the spectators are satisfied.
 
 The difference to its theatrical metaphor however boldly appears as with the spectators are not satisfied upon learning that a superintelligence may be humankinds last invention. With this exception, Antiphanes perhaps understood humans' affection to drama and perhaps this is what we see today.

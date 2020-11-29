@@ -1,5 +1,6 @@
 ---
 title: "Accidentally philosophical: Thoughts on artificial intelligence I"
+date: 2020-08-31
 draft: false
 authors:
 - mes

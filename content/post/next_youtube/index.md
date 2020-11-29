@@ -1,5 +1,6 @@
 ---
 title: "Is the next YouTube from China?"
+date: 2020-11-29
 draft: false
 authors:
 - mes
@@ -26,6 +27,9 @@ Thus, I claim that TikTok is not the last Chinese internet portal adopting a non
 
 ## References
 [1] https://www.socialmediatoday.com/news/youtubes-adding-more-ads-with-mid-roll-breaks-available-in-shorter-videos/581173/ (Accessed 29.11.2020)
+
 [2] https://techcrunch.com/2020/09/22/tiktok-wechat-and-the-growing-digital-divide-between-the-u-s-and-china/ (Accessed 29.11.2020)
+
 [3] https://supchina.com/2019/06/13/chinese-corner-baidu-gaokao-sex/ (Accessed 29.11.2020)
+
 [4] https://collections.mfa.org/objects/37144/dragon-ascending-the-heavens?ctx=7db8a6f8-c704-4574-a4ee-b1a5c5c7a5ce&idx=6

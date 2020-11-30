@@ -1,5 +1,5 @@
 ---
-title: "A breakthrough in protein folding"
+title: "A breakthrough in protein folding simulation"
 date: 2020-11-30
 draft: false
 authors:
